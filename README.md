@@ -1,0 +1,2 @@
+# PKRmagazyn
+Aplikacja wirtualnego magazynu 
